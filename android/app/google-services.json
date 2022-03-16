@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305382092770",
+    "project_id": "home4you-78ae6",
+    "storage_bucket": "home4you-78ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305382092770:android:fb39e3b27f11ce768113bb",
+        "android_client_info": {
+          "package_name": "com.example.home4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305382092770-4eln9s3vi0bnco3oe7mu7aeesg225lj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQlSsknOpkrE8Msqq-ii8Cr5MbEG5JENg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305382092770-4eln9s3vi0bnco3oe7mu7aeesg225lj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
